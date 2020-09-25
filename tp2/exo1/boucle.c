@@ -7,7 +7,7 @@ int main() {
 	// partie 1
 
 	int n1 = 100, i, somme2 = 0, somme3 = 0;
-	unsigned short int n2 = 1, somme4 = 0,n,somme1=0;
+	unsigned short int n2 = 0, somme4 = 0,n,somme1=0;
 
 	
 
