@@ -31,7 +31,7 @@ int main() {
 	double A, B, C;
 	int i = 1;
 
-	while (i = 1) {
+	while (i == 1) {
 
 		printf("donner les 3 dimension de votre A, B, C\n");
 		scanf_s("%lf", &A);
